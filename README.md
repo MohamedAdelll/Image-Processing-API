@@ -47,8 +47,6 @@
 
 ## About The Project
 
-![imgCropper preview](./assets/imgCropper-preview.gif)
-
 Image Processing API using `node.js` & `Express` to create a server that displays image with the width and height specified by the user
 
 <p align="right">(<a href="#top">back to top</a>)</p>
