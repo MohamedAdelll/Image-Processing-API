@@ -62,7 +62,7 @@ Image Processing API using `node.js` & `Express` to create a server that display
 
 ### Flowchart
 
-<img src='./assets/flowshart1.PNG' alt='flowchart' >
+<img src='./assets/flowshart1.png' alt='flowchart' >
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
